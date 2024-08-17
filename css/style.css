@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #16232E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 100vh;
+}
+
+.numero {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    margin: 5px;
+}
